@@ -18,7 +18,7 @@ Caesar Cipher shifts each letter by `n` positions.
 Symmetric Encryption, Logic Building, Data Confidentiality fundamentals
 
 ## Status
-`In Development`
+`Completed`
 
 ---
 DecodeLabs Cybersecurity Internship
